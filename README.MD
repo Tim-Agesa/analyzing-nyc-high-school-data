@@ -25,6 +25,7 @@ I did this project in order to show my competency in exploratory data analysis, 
 
 ## Screenshots
 ![alt text](data_image.png)
+
 An Example of an analysis between sat scores vs race.
 
 ## Author
