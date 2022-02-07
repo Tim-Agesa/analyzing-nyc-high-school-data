@@ -4,7 +4,7 @@
  An in depth analysis of [__SAT scores__](https://en.wikipedia.org/wiki/SAT) and whether it has any correlation to other factors used for school applicants.
  
 ## Motivation
-I did this project in order to show my competency in exploratory data analysis, whilst using python and jupyter notebooks.
+I did this project in order to show my data cleaning techniques, whilst using python and jupyter notebooks. In addition I explored the data further.
 ##  Built With
 - Python (__3.7.11__)
 - Jupyter Notebook (__6.4.6__)
